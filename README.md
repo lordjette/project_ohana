@@ -34,3 +34,13 @@ An Open Source Tool for Visualizing Amenity Accessibility Data in the Philippine
   ```
  
  
+# Run Flask Web UI
+
+- `app.py`  
+  Run the frontend
+  
+  Sample Usage: 
+  ```
+  export FLASK_APP=app.py
+  flask run
+  ```
