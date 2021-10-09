@@ -1,0 +1,22 @@
+
+/*===========================
+      Commmon 
+===========================*/
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800");
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #121212; 
+}
+
+html, body {
+    margin: 0;
+    height: 100%;             /* need for iframe height 100% to work */
+}
+
+#iconize{
+margin-right: 4px;
+font-size: 1rem;
+
+} 
